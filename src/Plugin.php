@@ -6,6 +6,7 @@ use craft\events\RegisterComponentTypesEvent;
 use craft\services\Fields;
 use robuust\reverserelations\fields\ReverseCategories;
 use robuust\reverserelations\fields\ReverseEntries;
+use robuust\reverserelations\fields\ReverseEvents;
 use verbb\events\Events;
 use yii\base\Event;
 
